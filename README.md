@@ -113,13 +113,13 @@ We can see that the article with the most ingoing links is the Nederland (Nether
 
 **Some articles with most nodes**
 
-| **WEST-FLEMISH** |  |           |**ROMANSCH** |         **DUTCH** **LOW SAXON**         |          |
-| ---------------- | ------------ | --------------------------------- | ---------- | --------------- | -------- |
-| West-Vloandern   | 0,1514   | Chantuns da la Svizra | 0,1737 | Netherlands | 0,21 |
-|  Belgie          |  0,1427      |    Svizra         |   0,383|   Duutsland     | 0,098 |
-| Nederlands          | 0,08957  |    Italia          |   0,111|   Engels        | 0,058 |
-|   Frans       |   0,0878     |     Germania         |   0,1052  |  Duuts |  0,0574  |
-|  Duutsland          |   0,0732     |  Frantsche     |    0,0959  | Europa|  0,052   |
+| **WEST-FLEMISH**  | **ROMANSCH** |           | |         **DUTCH** **LOW SAXON**         |          |
+| ----------------  | ------------ | --------------------------------- | ---------- | --------------- | -------- |
+| West-Vloandern    | 0,1514   | Chantuns da la Svizra | 0,1737 | Netherlands | 0,21 |
+|  Belgie           |  0,1427      |    Svizra         |   0,383|   Duutsland     | 0,098 |
+| Nederlands        | 0,08957  |    Italia          |   0,111|   Engels        | 0,058 |
+|   Frans           |   0,0878     |     Germania         |   0,1052  |  Duuts |  0,0574  |
+|  Duutsland        |   0,0732     |  Frantsche     |    0,0959  | Europa|  0,052   |
 |   Familie (Biologie) |    0,0732 |                   |  Grunnegs   |   0,1367 |
 |   Animalia            |    0,0621                    |            |   Stellingwarfs | 0,1269 |
 
