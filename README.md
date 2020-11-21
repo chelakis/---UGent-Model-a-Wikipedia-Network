@@ -38,7 +38,7 @@ The script first scans.all the articles from the “all articles” page and sav
 
 ***How nodes are created:***
 
-<img src="D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\creation.png" alt="creation" style="zoom:60%;" />
+<img src="/img/creation.png" alt="creation" width=60% />
 
 ***Code that creates nodes between articles that have a link to each other:***
 
@@ -71,15 +71,15 @@ These are the nodes that have no link to another webpage. In the following image
 | ------- | ------------ | --------------- |
 | 80      | 60           | 15              |
 
-![isolated](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\isolated.png)
+<img src="/img/isolated.png" alt="isolated" width=60% />
 
 An example is the AMOLED article. As we can see there are no links to another webpage
 
-![amoled](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\amoled.png)
+<img src="/img/amoled.png" alt="amoled" width=60% />
 
 Another example: Rakel
 
-![rakel](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\rakel.png)
+<img src="/img/rakel.png" alt="rakel" width=60% />
 
 ### Degree centrality
 
@@ -89,27 +89,27 @@ These are the articles with the most links from other articles.
 
 We can see that the article with the most ingoing links is the Svizra (Switzerland)
 
-![degreecentr-romansh](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\degreecentr-romansh.png)
+<img src="/img/degreecentr-romansh.png.png" alt="degreecentr-romansh.png" width=60% />
 
 **Degree centrality of West Flemish Wikipedia**
 
 We can see that the article with the most ingoing links is the Bevolkenge (Population)
 
-![degreecentr-flemish](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\degreecentr-flemish.png)
+<img src="/img/degreecentr-flemish.png" alt="degreecentr-flemish.png" width=60% />
 
 This is obvious because the West Flemish Wikipedia has many articles about cities and places all of which have a link to the 'Bevolkenge' article:
 
-![Bevolkenge](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\Bevolkenge.png)
+<img src="/img/Bevolkenge.png" alt="Bevolkenge" width=60% />
 
 Here we can see the incoming links to 'Bevolkenge' articles
 
-![Bevolkengeincoming](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\Bevolkengeincoming.png)
+<img src="/img/Bevolkengeincoming.png" width=60%" alt="Bevolkengeincoming" width=60% />
 
 **Degree centrality of Dutch Low Saxon Wikipedia**
 
 We can see that the article with the most ingoing links is the Nederland (Netherland)
 
-![degreecentr-dutch](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\degreecentr-dutch.png)
+<img src="/img/degreecentr-dutch.png" width=60%" alt="degreecentr-dutch" width=60% />
 
 **Some articles with most nodes**
 
@@ -139,7 +139,7 @@ The Romansh Wikipedia has the highest average shortest path length coefficient. 
 
 In the following image there are some examples of the shortest paths between random nodes:
 
-![shortestpaths](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\shortestpaths.png)
+<img src="/img/shortestpaths.png" width=60%" alt="shortestpaths" width=60% />
 
 ### Differences and Similarities
 
@@ -155,29 +155,30 @@ In the following image there are some examples of the shortest paths between ran
 
 **Degree rank plot**
 
-![rankplot](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\rankplot.png)
+<img src="/img/rankplot.png" alt="rankplot" width=60% />
 
 **Degree Histogram : Number of nodes with a specific degree**
 
-![degreehist](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\degreehist.png)
+<img src="/img/degreehist.png"  alt="degreehist" width=60% />
 
 **Degree Histogram : **(Why dutch low saxon has so many nodes with degree = 30?)
 
-![degreehistogram-dutchls](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\degreehistogram-dutchls.png)
+<img src="/img/degreehistogram-dutchls.png"  alt="degreehistogram-dutchls" width=60% />
 
 There are so many articles with a node degree = 30 because the Dutch Low-Saxon Wikipedia has many articles for all years/numbers from 100 B.C. till 400 A.D. and these articles are very connected to each other (many links to and from the article to other same articles)
 
 **Entire Romansh Wikipedia graph**
 
-![romansh](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\romansh.png)
+<img src="/img/romansh.png"  alt="romansh" width=60% />
 
 **Neighboors of the node (Nederlaand) for Dutch Low Saxon**
 
-![nederlaand](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\nederlaand.png)
+<img src="/img/nederlaand.png"  alt="nederlaand" width=60% />
+
 
 **Neighboors of the node (Svizra) for Romansh**
 
-![svizra](D:\Αρχεία\HMMY\UGent\Network Modelling & Design\img\svizra.png)
+<img src="/img/svizra.png"  alt="svizra" width=60% />
 
 ## Conclusion
 
