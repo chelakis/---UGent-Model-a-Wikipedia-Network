@@ -103,13 +103,13 @@ This is obvious because the West Flemish Wikipedia has many articles about citie
 
 Here we can see the incoming links to 'Bevolkenge' articles
 
-<img src="/img/Bevolkengeincoming.png" width=60%" alt="Bevolkengeincoming" width=60% />
+<img src="/img/Bevolkengeincoming.png" alt="Bevolkengeincoming" width=60% />
 
 **Degree centrality of Dutch Low Saxon Wikipedia**
 
 We can see that the article with the most ingoing links is the Nederland (Netherland)
 
-<img src="/img/degreecentr-dutch.png" width=60%" alt="degreecentr-dutch" width=60% />
+<img src="/img/degreecentr-dutch.png" alt="degreecentr-dutch" width=60% />
 
 **Some articles with most nodes**
 
@@ -139,7 +139,7 @@ The Romansh Wikipedia has the highest average shortest path length coefficient. 
 
 In the following image there are some examples of the shortest paths between random nodes:
 
-<img src="/img/shortestpaths.png" width=60%" alt="shortestpaths" width=60% />
+<img src="/img/shortestpaths.png" alt="shortestpaths" width=60% />
 
 ### Differences and Similarities
 
